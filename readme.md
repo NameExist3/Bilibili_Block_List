@@ -1,6 +1,6 @@
 # 屏蔽说明
 
-![](D:\Git bash\Bilibili_Barrage_Shield\说明.png)
+![](说明.png)
 
 
 
