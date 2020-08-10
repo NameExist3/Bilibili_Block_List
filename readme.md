@@ -9,3 +9,5 @@ https://harrynull.tech/bilibili/index.html
 
 # 更新日志
 
+[releases目录]: https://github.com/UserNameInExistence/Bilibili_Block_List/releases
+
