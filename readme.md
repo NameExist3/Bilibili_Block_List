@@ -1,3 +1,4 @@
+#学正则表达式时顺便搞出的玩意，让哔哩哔哩弹幕体验极好
 ## 下载xml文件然后导入到屏蔽列表即可，建议使用电脑操作
 ### 屏蔽词分享平台
 https://harrynull.tech/bilibili/index.html
